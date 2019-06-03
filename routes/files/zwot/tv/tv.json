@@ -30,9 +30,9 @@
             },
             "TXT": ["url=/actions/light/0,model/"],
             "values": {
-                "power": "100%"
+                "size": 30
             },
-            "status": "none",
+            "status": "alive",
             "tags": {}
         }
     }
